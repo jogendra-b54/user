@@ -1,0 +1,4 @@
+app:
+    source:  "https://github.com/jogendra-b54/tf-module-mutable-app.git"
+    version: "main"
+
